@@ -19,4 +19,4 @@ The K fold method is relying on using the whole dataset to train the model , you
     X_train, X_test = X[train_index], X[test_index]
     y_train, y_test = y[train_index], y[test_index]
  
- 
+
